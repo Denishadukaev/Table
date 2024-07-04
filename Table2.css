@@ -1,0 +1,54 @@
+table {
+    background-color: #f6f6f6;
+    border-collapse: collapse;
+    
+  }
+  
+  td, th {
+    border: 1px solid #999;
+    
+  
+  
+  }
+  
+  th {
+    background: rgb(42, 165, 136);
+    color: white;
+     padding: 6px 12px ;
+     margin: 1px;
+     text-align: left;
+     
+  }
+  
+  .primary {
+    background-color: #000000;
+  }
+  
+  tfoot > tr  {
+    background: black;
+    color: white;
+  }
+  
+  tbody > tr:hover {
+    background-color: #b98ee6;
+  }
+  
+  td{
+    margin-top:20px ;
+    margin-bottom: 20px;
+    padding: 20px;
+    
+  }
+  
+  .animal{
+    background: rgb(42, 165, 136);
+    color: white;
+  }
+  
+  .color{
+    background-color: white;
+    color: black;
+  }
+  
+  
+  
